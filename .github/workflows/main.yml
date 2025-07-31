@@ -1,9 +1,11 @@
 name: CI
+
 on:
-  push:
-    branches:
-      - master
-  pull_request:
+  push:
+    branches:
+      - master
+  pull_request:
+
 jobs:
   build:
     name: Build scripts
@@ -16,7 +18,8 @@ jobs:
 
       - name: Compile
         run: |
-          BUILD=$(($(git rev-list --count --first-parent HEAD)+3500))
+          BUILD_NUM=$(git rev-list --count --first-parent HEAD)
+          BUILD=$((BUILD_NUM + 3500))
           TODAY=$(date +"%d.%m.%y")
           echo "BUILD=${BUILD}" >> "$GITHUB_ENV"
           echo "TODAY=${TODAY}" >> "$GITHUB_ENV"
