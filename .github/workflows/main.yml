@@ -1,17 +1,16 @@
 name: CI
 
 on:
-  push:
-    branches:
-      - master
-  pull_request:
+  push:
+    branches:
+      - master
+  pull_request:
 
 jobs:
-  build:
-    name: Build scripts
-    runs-on: ubuntu-latest
-    steps:
-      ...
+  build:
+    name: Build scripts
+    runs-on: ubuntu-latest
+    steps:
       - name: Checkout
         uses: actions/checkout@v2
         with:
