@@ -1,13 +1,14 @@
 name: CI
 
 on:
-  push:
-    branches:
-      - master
-  pull_request:
+  push:
+    branches:
+      - master
+  pull_request:  # This should be at the same indentation level as `push:`
 
 jobs:
-  build:
+  build:
+    ...
     name: Build scripts
     runs-on: ubuntu-latest
     steps:
