@@ -1,53 +1,53 @@
-`Shannon entered the entrance hall to the mansion with a tottering gait. `
-`A mixture of exaltation and uncertainty gave her a feeling that she couldn't easily describe. It swelled up in her chest until it felt like she was about to burst. `
-`After stopping for a second in front of the servant room to take a deep breath and calm her heart, she opened the door. `
-`Inside, Gohda, who had been ordered to take the midnight shift at the mansion tonight, was absorbed in a worn-out crossword puzzle magazine. `
-`He looked up for an instant to see if one of the family had come, but when he realized it was a fellow servant, he returned to his puzzle as if nothing had happened. `
-`"......Umm, `
-`...Genji-sama told me to come and help you." `
-`"Ah, is that so...? That's a relief. `
-`I was just about to go check that the mansion was fully locked up, but I felt uneasy about leaving this room unmanned. `
-`After all, Krauss-sama and the others' meeting looks as though it will continue for quite some time. `
-`They might request some tea at any moment." `
-`"That's true... `
-`Then, what shall we do...? Should I watch over-" `
-`"In that case, forgive me, Shannon-san, but I'll ask that you patrol the mansion. `
-`I will stay here, awaiting the family's orders." `
-`"...Y-Yes..." `
-`...Shannon was slightly disgusted. `
-`Even though she'd come here to help out as a favor, she was casually being forced to do the job of the person actually on duty. `
-`Furthermore, after one-sidedly forcing that task on her, Gohda returned to his magazine once again and became immersed in his crossword puzzle. `
-`Shannon bowed her head as a token sign of respect for her elder, then left the room to patrol the mansion. `
-`Thanks to her being a bit ticked off, she managed to suppress that floaty feeling she'd been having until just now. `
-`And anyway, she couldn't let Genji or Kanon see her looking like this. `
-`She wanted a little time to herself until her heart calmed down, so maybe going on patrol wouldn't be so bad... `
-`She began to hear the tumultuous voices of the family discussion coming from the dining hall. `
-`Someone was speaking at great length, only to be interrupted by someone else. `
-`This second person also began to speak in a very long, drawn-out fashion, until yet another person interrupted. `
-`That kept on repeating. `
-`It was as though their displeasure was seeping out through their voices. `
-`She had been told to go to the guesthouse, so it would be bad if Krauss discovered her. `
-`Thinking this, Shannon dashed past the dining hall. `
-`Then, she went along a prearranged route through the dark mansion, checking that all the locks were secure. `
-`She walked down the hall, checking each window. `
-`There were no humans on Rokkenjima other than those connected to the family, so locking up didn't really serve much of a purpose. `
-`No one had been in the habit of locking up at the Ushiromiya Head Family, at least not until Natsuhi had scolded them for being careless. `
-`The metal fixtures on the windows were ice cold, and as she checked them one by one, the glow in her heart seemed to cool down. `
-`"..................?" `
-`At that time, she thought she saw something twinkling across the hall. `
-`......Twinkling? `
-`How could anything be twinkling through the darkness of the hall...? `
-`She figured she must've been imagining it, but she still held her breath. `
-`Grasping a curtain, she fearfully gazed down the hall...... `
-`However, other than the occasional crack of thunder brightening the hallway, she was unable to glimpse any flicker again. `
-`...It must've been her imagination after all. `
-`Maybe her heart was so agitated that she'd seen something that didn't even exist. `
-`Shannon went back to checking the windows... `
-`However, a certain unnerving memory was resurrected in the back of her mind. `
-`...It was that ghost story...which had been passed down amongst the servants who served the Ushiromiya Head Family. `
-`The mansion had two different Masters, one of the Day and one of the Night. `
-`...{f:5:Beatrice}, the Master of the night, would sometimes fly around the mansion in the form of sparkling butterflies. That was the story. `
-`...Come to think of it, didn't Kanon-kun once say he'd seen it with his own eyes......? `
-`Though he got sulky when I said he must've imagined it and refused to believe him... `
-`......Could it possibly...be true...? `
-`The roar of the thunder gave no answer... `
+`ชาน่อนก้าวผ่านประตูใหญ่ของคฤหาสน์เข้ามาด้วยฝีเท้าโซซัดโซเซ`
+`หัวอกของเธอพองโตจนแทบปริแตก ด้วยความรู้สึกที่เอ่ยเป็นคำพูดสั้น ๆ ไม่ได้ ทั้งเบิกบานลิงโลดปะปนกับหวั่นกังวล`
+`เธอสูดหายใจลึกหนึ่งครั้งที่หน้าห้องคนรับใช้ สงบสติอารมณ์ให้เรียบร้อยก่อนจะเปิดประตูเข้าไป`
+`ข้างในมีโกดะซึ่งได้รับคำสั่งให้อยู่เวรดึกประจำคฤหาสน์คืนนี้ กำลังก้มหน้าก้มตาอยู่กับนิตยสารปริศนาอักษรไขว้เล่มเก่ายับ`
+`เขาเงยหน้าขึ้นมองชั่วอึดใจนึกว่าญาติท่านใดเข้ามา แต่พอเห็นว่าเป็นเพื่อนคนรับใช้ด้วยกันก็หันกลับไปราวกับไม่มีอะไรเกิดขึ้น`
+`「……คือว่า`
+`…ท่านเก็นจิสั่งให้ดิฉันมาช่วยงานคุณโกดะค่ะ」`
+`「อ้อ อย่างนั้นหรือครับ… ช่วยได้มากเลย`
+`ผมกำลังอยากออกไปเดินตรวจล็อกประตูหน้าต่างอยู่พอดี แต่ก็ลำบากใจว่าจะปล่อยห้องนี้ว่างไว้ได้หรือเปล่า`
+`ก็ดูท่าการประชุมของบรรดานายท่านจะยืดยาวไปอีกนานเลยนี่ครับ`
+`ไม่รู้ว่าจะมีรับสั่งเรียกน้ำชาขึ้นมาตอนไหนด้วย」`
+`「นั่นสิคะ…`
+`ถ้าอย่างนั้น เอายังไงดีคะ… ให้ดิฉันเฝ้าห้องแทน…」`
+`「งั้นคุณชาน่อน ต้องขอโทษด้วยนะครับ ช่วยไปเดินตรวจภายในคฤหาสน์ทีเถอะครับ`
+`ส่วนผมจะรออยู่ตรงนี้ เผื่อญาติท่านใดมีรับสั่งใช้งานขึ้นมา」`
+`「ค่ะ ……ได้ค่ะ…」`
+`…ชาน่อนรู้สึกระอาอยู่ในใจเล็กน้อย`
+`ทั้งที่เธออุตส่าห์มีน้ำใจมาช่วยงานแท้ ๆ เขากลับโยนงานประจำของเวรตัวเองมาให้เสียอย่างหน้าตาเฉย`
+`แถมพอยัดเยียดงานให้ฝ่ายเดียวเสร็จ โกดะก็กลับไปจมจ่อมกับนิตยสารเล่มเดิม ดำดิ่งสู่ปริศนาอักษรไขว้ต่อ`
+`ชาน่อนโค้งให้พองามตามมารยาทที่พึงมีต่อผู้อาวุโส แล้วออกจากห้องไปเดินตรวจ`
+`ต้องขอบคุณความหงุดหงิดวูบนั้น ที่ช่วยให้ความรู้สึกล่องลอยฟุ้งฝันเมื่อครู่สงบลงได้บ้าง`
+`อีกอย่าง หน้าตาแบบนี้จะให้เก็นจิหรือคาน่อนเห็นไม่ได้เด็ดขาด`
+`{n}ในเมื่ออยากได้เวลาสักพักให้ใจกลับมาสงบ การออกมาเดินตรวจก็อาจไม่ใช่เรื่องแย่นักก็ได้…`
+`จากห้องอาหาร มีเสียงบรรดาญาติถกเถียงกันอย่างเผ็ดร้อนดังลอดออกมา`
+`พอใครคนหนึ่งพูดเยิ่นเย้อยืดยาว ก็มีอีกคนคอยค้าน`
+`พอคนค้านพล่ามยืดยาวบ้าง ก็โดนอีกคนค้านกลับเช่นกัน`
+`วนเวียนซ้ำซากอยู่อย่างนั้น`
+`{n}น้ำเสียงของแต่ละคนดูจะฉายแววขุ่นมัวออกมาให้ได้ยิน`
+`ตัวเธอถูกสั่งให้ไปประจำที่เกสต์เฮาส์ ถ้าถูกเคราส์เห็นเข้าคงยุ่งแน่`
+`คิดดังนั้น ชาน่อนจึงรีบสาวเท้าผ่านหน้าห้องอาหารไป`
+`จากนั้นเธอก็ไล่ตรวจการล็อกประตูหน้าต่างไปตามเส้นทางที่กำหนดไว้ ท่ามกลางคฤหาสน์ที่ถูกความมืดเข้าครอบงำ`
+`เธอเดินไปตามระเบียงทางเดิน ตรวจกลอนหน้าต่างไปทีละบาน ๆ`
+`บนเกาะร็อกเค็นจิมะไม่มีมนุษย์อื่นใดนอกจากคนของตระกูลอุชิโรมิยะ เดิมทีการล็อกประตูหน้าต่างจึงแทบไม่ได้มีความหมายสำคัญอะไรนัก`
+`กระทั่งนัตสึฮิตำหนิว่าประมาทเกินไป ก่อนหน้านั้นตระกูลหลักอุชิโรมิยะไม่เคยมีธรรมเนียมล็อกประตูหน้าต่างมาก่อนเลยด้วยซ้ำ`
+`กลอนหน้าต่างเย็นเยียบจับแล้วหนาวมือ ทุกครั้งที่ไล่ตรวจไปทีละจุด ก็เหมือนไอร้อนผ่าวในใจค่อย ๆ ถูกดับให้เย็นลง`
+`「…………………？」`
+`วินาทีนั้นเอง เธอรู้สึกเหมือนเห็นบางสิ่งกะพริบวูบไหวอยู่สุดปลายระเบียงทางเดิน`
+`……แสงกะพริบ？`
+`{n}ของแบบนั้นจะไปปรากฏอยู่ในความมืดสุดระเบียงได้อย่างไรกัน…`
+`แม้จะคิดว่าคงตาฝาดไปเอง แต่เธอก็กลั้นลมหายใจอยู่ครู่หนึ่ง`
+`กอดกองผ้าม่านไว้แนบอก พลางเพ่งมองลึกเข้าไปสุดระเบียงอย่างหวาดหวั่น……`
+`ทว่านอกจากแสงฟ้าแลบพร้อมเสียงคำรามที่สาดส่องระเบียงเป็นระยะแล้ว เธอก็ไม่ได้เห็นแสงกะพริบนั้นอีกเป็นครั้งที่สอง`
+`……สงสัยจะคิดไปเองจริง ๆ นั่นแหละ`
+`{n}อาจเพราะใจยังไม่สงบ เลยเผลอเห็นสิ่งที่ไม่มีอยู่จริงเข้าก็เป็นได้`
+`ชาน่อนกลับมาไล่ตรวจการล็อกประตูหน้าต่างต่ออีกครั้ง…`
+`{n}ทว่าในห้วงความคิดของเธอ จินตนาการชวนขนหัวลุกเรื่องหนึ่งกลับผุดขึ้นมาอีกครา`
+`…นั่นคือเรื่องเล่าสยองขวัญที่เหล่าคนรับใช้ของตระกูลหลักอุชิโรมิยะเล่าขานสืบต่อกันมา`
+`เรื่องที่ว่าคฤหาสน์แห่งนี้มีเจ้านายยามกลางวันกับยามค่ำคืนเป็นคนละคนกัน`
+`…เรื่องเล่าที่ว่าเจ้านายแห่งราตรี เบียทริเช่ ในบางคราจะปรากฏกายเป็นผีเสื้อเรืองแสง โบยบินไปทั่วคฤหาสน์`
+`……จะว่าไป เหมือนคาน่อนคุงจะเคยบอกว่าเคยเห็นมาก่อนด้วยนี่นา……？`
+`ตอนนั้นดิฉันไม่ยอมเชื่อ หาว่าเขาคงตาฝาดไปเอง จนเขาออกอาการงอนไปเลย…`
+`………หรือว่า …จะเป็นเรื่องจริง……………？`
+`{n}เสียงฟ้าคำรามกึกก้อง หาได้ให้คำตอบใดแก่เธอไม่…`
